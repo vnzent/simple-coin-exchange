@@ -22,11 +22,13 @@ Program ini menyelesaikan masalah penukaran uang agar jumlah koin yang digunakan
 
 ```bash
 g++ penukaran_koin.cpp -o penukaran_koin
+```
 
 ### 3. Jalankan file hasil compile
 
 ```bash
 ./penukaran_koin
+```
 
 ## Contoh Input
 
