@@ -32,6 +32,7 @@ g++ penukaran_koin.cpp -o penukaran_koin
 
 ## Contoh Input
 
+```bash
 Masukkan jumlah jenis koin: 5
 Masukkan nilai koin ke-1: 1000
 Masukkan nilai koin ke-2: 500
@@ -39,8 +40,11 @@ Masukkan nilai koin ke-3: 200
 Masukkan nilai koin ke-4: 100
 Masukkan nilai koin ke-4: 50
 Masukkan jumlah uang yang ingin ditukar: 7875
+```
 
 ## Contoh Output
+
+```bash
 Hasil penukaran untuk uang 7875 adalah:
 1. Koin 1000 x 7
 2. Koin 500 x 1
@@ -48,5 +52,4 @@ Hasil penukaran untuk uang 7875 adalah:
 4. Koin 100 x 1
 5. Koin 50 x 1
 Tidak dapat menukarkan sisa uang 25 dengan koin yang tersedia.
-
-
+```
