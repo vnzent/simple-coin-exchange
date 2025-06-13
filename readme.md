@@ -1,4 +1,4 @@
-AS# Program Penukaran Uang dengan Algoritma Greedy 
+# Program Penukaran Uang dengan Algoritma Greedy 
 
 Program ini menyelesaikan masalah penukaran uang agar jumlah koin yang digunakan seminimal mungkin. Pengguna dapat memasukkan daftar pecahan koin dan jumlah uang yang ingin ditukar. Program ini akan menentukan koin yang akan ditukarkan dengan jumlah uang yang diinputkan dari koin yang paling besar ke kecil menggunakan algoritma greedy yang dimana algoritma ini mengambil keputusan yang terbaik pada setiap pengambilan keputusan dengan harapan mendapat hasil yang maksimal diakhri ( tapi belum tentu selalu optimal )
 
