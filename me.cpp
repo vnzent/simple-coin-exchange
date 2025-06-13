@@ -17,7 +17,7 @@ int main() {
   sort(coins.begin(), coins.end(), greater<int>());
 
   int amount;
-  cout << "Masukkan jumalh uang yang ingin ditukarkan kedalam bentu koin : ";
+  cout << "Masukkan jumlah uang yang ingin ditukarkan kedalam bentu koin : ";
   cin >> amount;
 
   vector<int> count(n, 0); // Jumlah koin dari setiap jenis koin
